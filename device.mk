@@ -36,20 +36,20 @@ AB_OTA_PARTITIONS += \
     vbmeta_product \
     dtbo \
     uboot \
-	vendor_boot \
-	l_modem \
-	l_gdsp \
-	l_ldsp \
-	l_agdsp \
-	pm_sys \
-	l_fixnv1 \
-	l_fixnv2 \
-	l_deltanv \
-	vendor_dlkm \
-	system \
-	system_ext \
-	vendor \
-	product
+    vendor_boot \
+    l_modem \
+    l_gdsp \
+    l_ldsp \
+    l_agdsp \
+    pm_sys \
+    l_fixnv1 \
+    l_fixnv2 \
+    l_deltanv \
+    vendor_dlkm \
+    system \
+    system_ext \
+    vendor \
+    product
 
 # Update engine
 PRODUCT_PACKAGES += \
