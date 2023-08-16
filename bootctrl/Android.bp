@@ -15,7 +15,7 @@
 //
 
 cc_library {
-    name: "bootctrl.unisoc",
+    name: "bootctrl.ums9230",
     defaults: ["bootctrl_hal_defaults"],
     static_libs: ["libgptutils.Tab16_NEU"],
 }
